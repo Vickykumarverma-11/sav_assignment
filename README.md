@@ -1,8 +1,8 @@
 # sav_assignment
 
- 
-<img width="1344" height="2992" alt="Screenshot_1775833199" src="https://github.com/user-attachments/assets/b5105bad-18e0-4640-8360-dceffc1a5266" />
 <img width="1344" height="2992" alt="Screenshot_1775833193" src="https://github.com/user-attachments/assets/f6b2f894-a7c9-454b-8080-528e1f7b34bb" />
+<img width="1344" height="2992" alt="Screenshot_1775833199" src="https://github.com/user-attachments/assets/b5105bad-18e0-4640-8360-dceffc1a5266" />
+ 
 
 # SAV Assignment — Stock Detail UI
 
