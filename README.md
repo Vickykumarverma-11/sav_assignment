@@ -1,16 +1,56 @@
 # sav_assignment
 
-A new Flutter project.
+ 
+<img width="1344" height="2992" alt="Screenshot_1775833199" src="https://github.com/user-attachments/assets/b5105bad-18e0-4640-8360-dceffc1a5266" />
+<img width="1344" height="2992" alt="Screenshot_1775833193" src="https://github.com/user-attachments/assets/f6b2f894-a7c9-454b-8080-528e1f7b34bb" />
 
-## Getting Started
+# SAV Assignment — Stock Detail UI
 
-This project is a starting point for a Flutter application.
+This is a Flutter project where I built a stock detail screen based on a Figma design.
 
-A few resources to get you started if this is your first Flutter project:
+The main goal was to get the UI as close as possible to the design and keep the code clean and reusable.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What I built
+
+- **Stock Card**
+  - Drew the graph using CustomPainter
+  - Added gradient line with a slight glow
+  - Vertical indicator line with a dot
+  - Subtle dotted background
+
+- **Insights Card**
+  - Annual returns shown using gradient text
+  - Simple bar chart with reflection effect
+  - Added a few key metrics
+
+- **Auto Invest Card**
+  - Purple gradient background
+  - Basic illustration-style UI
+
+- **Similar Stocks**
+  - List of 4 stocks
+  - Clean layout with faded dividers
+  - Gradient percentage text
+
+- **Bottom Invest Bar**
+  - Apple icon with price
+  - Scrollable layout
+  - Gradient “Invest” button
+
+---
+
+## Tech Stack
+
+- Flutter (Dart)
+- Google Fonts (DM Sans, Barlow)
+- flutter_svg
+- CustomPainter (for graphs and charts)
+
+---
+
+## Project Structure
+
+Tried to keep things simple and organized:
+
